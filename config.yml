@@ -1,0 +1,35 @@
+Reparador:
+ Quantia: 1
+ Preco: 3000
+Raio:
+ Quantia: 1
+ Preco: 2000
+SuperCreeper:
+ Quantia: 1
+ Preco: 3000
+BauExtra:
+ Quantia: 1
+ Preco: 4000
+Armadilha:
+ Quantia: 1
+ Preco: 4000
+Lancador:
+ Quantia: 1
+ Preco: 5000
+Purificador:
+ Quantia: 1
+ Preco: 3000
+BolaDeFogo:
+ Quantia: 1
+ Preco: 2000
+ 
+Caixas:
+ Basica:
+  Comando: 'givecaixa @player basica @quantity'
+  Preco: 10
+ Avancada:
+  Comando: 'givecaixa @player basica @quantity'
+  Preco: 20
+ Suprema:
+  Comando: 'givecaixa @player basica @quantity'
+  Preco: 30

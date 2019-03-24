@@ -1,0 +1,7 @@
+name: GalaxyMenus
+version: 1.0
+author: gabriel_blink
+main: galaxy.gabrielblink.galaxymenus.Main
+commands:
+ especiais:
+ caixasmisteriosas:
